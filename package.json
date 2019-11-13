@@ -10,6 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.13.0"
-  },
-  "homepage": "/dist/index.html"
+  }
 }
